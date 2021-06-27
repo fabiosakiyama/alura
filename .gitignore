@@ -1,5 +1,8 @@
 bin/
 .settings/
+.metadata
+.project
+.classpath
 
 # Compiled class file
 *.class
