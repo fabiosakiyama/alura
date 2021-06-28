@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 
 import br.com.alura.loja.orcamento.Orcamento;
 
+// Chain of Responsibility
 public class CalculadoraDeDescontos {
 	
 	public BigDecimal calcular(Orcamento orcamento) {
